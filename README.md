@@ -18,8 +18,11 @@ Recommended reference for thinking in Map/Reduce algorithms, although the emphas
 # INTRODUCTION
 Introduction to Parallel Computing
 
-  1 - [Introduction to parallelism](./Introduction-to-parallelism.pdf)
+  1 - [Introduction to parallelism](./Introduction-to-parallelism.pdf)  
+  
+  Map/Reduce explained with playing cards
   [![Map/Reduce explained with playing cards](https://img.youtube.com/vi/bcjSe0xCHbE/0.jpg)](https://www.youtube.com/watch?v=bcjSe0xCHbE)  
+  
   [Notes on the Java required for writing Hadoop programs](./Java_For_Hadoop.pdf)
 
 MAP / REDUCE
