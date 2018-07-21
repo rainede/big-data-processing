@@ -73,7 +73,7 @@ PARALLEL SYSTEMS PERFORMANCE
 
 IN-MEMORY DATAFLOW PROCESSING 
 
-  8 - [In memory dataflow processing](./In-memory-dataflow-processing.pdf)
+  8 - [In memory dataflow processing](./In-Memory-Processing-PySpark.pdf)
   Lab 7 - Apache Spark (Python) 
   Lab 7 - Apache Spark (Scala) 
   Example Spark word count project (in Scala) 
