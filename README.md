@@ -68,23 +68,23 @@ LAB 4 - Joins
  
 PARALLEL SYSTEMS PERFORMANCE  
 
-  6 - Parallel Computing Performance 
+  6 - [Parallel Computing Performance](./Parallel-Computing-Performance.pdf)
 
 
 IN-MEMORY DATAFLOW PROCESSING 
 
-  8 - In memory dataflow processing 
+  8 - [In memory dataflow processing](./In-memory-dataflow-processing.pdf)
   Lab 7 - Apache Spark (Python) 
   Lab 7 - Apache Spark (Scala) 
   Example Spark word count project (in Scala) 
   
 LARGE-SCALE GRAPH PROCESSING
 
-  10- Large-Scale Graphs 
+  10- [Large-Scale Graphs](./Large-Scale-Graphs.pdf)
 
 STREAM PROCESSING
 
-  11 - Stream Processing 
+  11 - [Stream Processing](./StreamProcessing.pdf)
 
 
 
