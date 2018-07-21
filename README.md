@@ -4,24 +4,23 @@ Big Data Processing Notes from Masters in Big Data Science
 
 READING LIST
 
-Hadoop in Practice, Alex Holmes, Manning Ed, 2012.
-Full text online through QMUL library: http://proquestcombo.safaribooksonline.com/9781617290237
+Books to Buy  
+[Hadoop in Practice, Alex Holmes, Manning Ed, 2012](http://proquestcombo.safaribooksonline.com/9781617290237) 
 Best hands-n book o practical considerations for Hadoop, as well as a complete collection of programming patterns/ recipes.
 
-Hadoop: the Definitive Guide (4th Edition), Tom White , ed O'Reilly, 2015
-Full text online through QMUL library: http://www.vlebooks.com.ezproxy.library.qmul.ac.uk/vleweb/Product/Index/475742?page=0
+[Hadoop: the Definitive Guide (4th Edition), Tom White , ed O'Reilly, 2015](http://www.vlebooks.com.ezproxy.library.qmul.ac.uk/vleweb/Product/Index/475742?page=0) 
 Best reference manual for Hadoop, with a comprehensive description of its architecture. Good overview also of the associated projects, and description of applications/ use cases.
 
-Data-Intensive Text Processing with MapReduce, Jimmy Lin and Chris Dyer, ed Morgan and Claypool, 2010.
-PDF available at: https://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf
+Online PDF
+[Data-Intensive Text Processing with MapReduce, Jimmy Lin and Chris Dyer, ed Morgan and Claypool, 2010](https://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf)  
 Recommended reference for thinking in Map/Reduce algorithms, although the emphasis is put on text processing.
 
-INTRODUCTION
+# INTRODUCTION
 Introduction to Parallel Computing
 
-  1 - [Introduction to parallelism]()
+  1 - [Introduction to parallelism](./Introduction-to-parallelism.pdf)
   [![Map/Reduce explained with playing cards](https://img.youtube.com/vi/bcjSe0xCHbE/0.jpg)](https://www.youtube.com/watch?v=bcjSe0xCHbE)  
-  Notes on the Java required for writing Hadoop programs (for Masters students) 
+  [Notes on the Java required for writing Hadoop programs](./Java_For_Hadoop.pdf)
 
 MAP / REDUCE
   2 - [Map/Reduce Programming]()
